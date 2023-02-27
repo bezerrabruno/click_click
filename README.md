@@ -1,16 +1,36 @@
-# click_click
+# Click Click
 
-A new Flutter project.
+Jogo desenvolvido com o intuito de divertir o jogador e aumentar minha
+capacidade de desenvolvimento, um projeto de estudo, mas, um projeto realmente funcional.
 
-## Getting Started
+# Início
 
-This project is a starting point for a Flutter application.
+Esse jogo terá alguns conceitos básicos de jogos de click, onde cada tap gerará pontos e você poderá melhorar habilidades para obter mais pontos.
+O jogo tem a ambição de colocar imagens e animações para melhorar a jogabilidade, mas por enquanto será apenas textos.
 
-A few resources to get you started if this is your first Flutter project:
+# Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Esse é um projeto desenvolvido por uma única pessoa até o momento, como parte do projeto estarei utilizando toda uma base para arquitetura,
+além de sempre me preocupar com os testes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Porcentagem de testes: 0%
+
+# Tap
+
+Ainda em desenvolvimento.
+
+# Money
+
+Ainda em desenvolvimento.
+
+# Mapas
+
+Ainda em desenvolvimento.
+
+# Batalhas
+
+Ainda em desenvolvimento.
+
+# Upgrades
+
+Ainda em desenvolvimento.
